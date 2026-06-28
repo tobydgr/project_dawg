@@ -1,51 +1,51 @@
 {
   "n02085620-Chihuahua": {
-    "precision": 0.0,
-    "recall": 0.0,
-    "f1-score": 0.0,
-    "support": 0.0
-  },
-  "n02085782-Japanese_spaniel": {
-    "precision": 0.0,
-    "recall": 0.0,
-    "f1-score": 0.0,
-    "support": 0.0
-  },
-  "n02085936-Maltese_dog": {
-    "precision": 0.75,
+    "precision": 1.0,
     "recall": 1.0,
-    "f1-score": 0.8571428571428571,
+    "f1-score": 1.0,
     "support": 3.0
   },
+  "n02085782-Japanese_spaniel": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3.0
+  },
+  "n02085936-Maltese_dog": {
+    "precision": 0.8571428571428571,
+    "recall": 1.0,
+    "f1-score": 0.9230769230769231,
+    "support": 6.0
+  },
   "n02086079-Pekinese": {
-    "precision": 0.0,
-    "recall": 0.0,
-    "f1-score": 0.0,
-    "support": 0.0
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3.0
   },
   "n02086240-Shih-Tzu": {
-    "precision": 0.0,
-    "recall": 0.0,
-    "f1-score": 0.0,
-    "support": 0.0
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3.0
   },
   "n02086646-Blenheim_spaniel": {
-    "precision": 0.0,
-    "recall": 0.0,
-    "f1-score": 0.0,
-    "support": 0.0
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3.0
   },
   "n02086910-papillon": {
-    "precision": 0.0,
-    "recall": 0.0,
-    "f1-score": 0.0,
-    "support": 0.0
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3.0
   },
   "n02087046-toy_terrier": {
-    "precision": 0.0,
-    "recall": 0.0,
-    "f1-score": 0.0,
-    "support": 0.0
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3.0
   },
   "n02087394-Rhodesian_ridgeback": {
     "precision": 0.0,
@@ -725,17 +725,17 @@
     "f1-score": 1.0,
     "support": 6.0
   },
-  "accuracy": 0.8611111111111112,
+  "accuracy": 0.9166666666666666,
   "macro avg": {
-    "precision": 0.08884297520661157,
-    "recall": 0.0771349862258953,
-    "f1-score": 0.0806375442739079,
-    "support": 36.0
+    "precision": 0.14757969303423848,
+    "recall": 0.1349862258953168,
+    "f1-score": 0.1390336935791481,
+    "support": 60.0
   },
   "weighted avg": {
-    "precision": 0.9791666666666666,
-    "recall": 0.8611111111111112,
-    "f1-score": 0.8964285714285715,
-    "support": 36.0
+    "precision": 0.9857142857142857,
+    "recall": 0.9166666666666666,
+    "f1-score": 0.9373076923076923,
+    "support": 60.0
   }
 }
