@@ -1,0 +1,6 @@
+{
+  "garo_test_images": 6,
+  "garo_correct": 6,
+  "garo_accuracy_within_own_testset": 1.0,
+  "garo_most_common_confusions": {}
+}
