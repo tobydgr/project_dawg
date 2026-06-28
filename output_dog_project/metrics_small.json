@@ -1,0 +1,39 @@
+{
+  "num_test_images": 36,
+  "accuracy": 0.8611111111111112,
+  "macro_f1": 0.696938775510204,
+  "weighted_f1": 0.8964285714285715,
+  "present_class_indices": [
+    2,
+    25,
+    41,
+    56,
+    71,
+    79,
+    80,
+    89,
+    90,
+    101,
+    106,
+    110,
+    111,
+    120
+  ],
+  "present_class_names": [
+    "n02085936-Maltese_dog",
+    "n02091831-Saluki",
+    "n02096177-cairn",
+    "n02099601-golden_retriever",
+    "n02104029-kuvasz",
+    "n02105855-Shetland_sheepdog",
+    "n02106030-collie",
+    "n02107908-Appenzeller",
+    "n02108000-EntleBucher",
+    "n02110806-basenji",
+    "n02111889-Samoyed",
+    "n02112706-Brabancon_griffon",
+    "n02113023-Pembroke",
+    "garo"
+  ],
+  "note": "Kleines Testset: Metriken nur vorsichtig interpretieren."
+}
