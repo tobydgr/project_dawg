@@ -38,7 +38,7 @@ Das Training erfolgt in zwei Phasen:
 - **Head-Training:** Zunächst wird der Backbone eingefroren und nur der neue Klassifikationskopf trainiert.
 - **Fine-Tuning:** Danach werden alle Layer wieder freigegeben und das gesamte Netz mit kleinerer Lernrate feinjustiert.
 
-### Modell 2: EfficientNet‑B0 (Vergleichsmodell)
+### Modell 2: EfficientNet‑B0 
 
 Zusätzlich wird ein zweites vortrainiertes CNN **EfficientNet‑B0** trainiert, um die Architekturfrage experimentell zu untersuchen. EfficientNet‑B0 ist ebenfalls auf ImageNet vortrainiert, aber anders skaliert als ResNet18, sodass sich Eigenschaften wie Parametergöße, Tiefe und Feature-Repräsentationen unterscheiden.
 
@@ -96,7 +96,7 @@ Falls Poster, Screenshots oder Vergleichsgrafiken vorliegen, können sie direkt 
 ├── evaluate.py
 ├── evaluate_small.py
 ├── dataset_cmp.py
-├── train_cmp.py        # EfficientNet‑B0 Training
+├── train_cmp.py
 ├── evaluate_cmp.py
 ├── evaluate_small_cmp.py
 ├── train/
