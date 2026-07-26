@@ -1,0 +1,7 @@
+{
+  "accuracy": 0.8783783783783784,
+  "macro_f1": 0.6947089947089948,
+  "weighted_f1": 0.9063706563706564,
+  "num_test_images": 74,
+  "model_name": "efficientnet_b0"
+}
